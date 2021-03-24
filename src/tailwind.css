@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.link{
+    @apply text-white block p-5 font-bold hover:text-yellow-500
+}
